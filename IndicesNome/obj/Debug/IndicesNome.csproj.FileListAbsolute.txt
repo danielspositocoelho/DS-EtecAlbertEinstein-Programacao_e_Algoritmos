@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\IndicesNome\bin\Debug\IndicesNome.exe.config
+C:\Users\danie\source\repos\Matrizes\IndicesNome\bin\Debug\IndicesNome.exe
+C:\Users\danie\source\repos\Matrizes\IndicesNome\bin\Debug\IndicesNome.pdb
+C:\Users\danie\source\repos\Matrizes\IndicesNome\obj\Debug\IndicesNome.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\IndicesNome\obj\Debug\IndicesNome.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\IndicesNome\obj\Debug\IndicesNome.exe
+C:\Users\danie\source\repos\Matrizes\IndicesNome\obj\Debug\IndicesNome.pdb

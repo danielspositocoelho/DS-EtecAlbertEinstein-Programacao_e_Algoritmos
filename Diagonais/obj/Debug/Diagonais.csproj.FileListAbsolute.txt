@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\Diagonais\bin\Debug\Diagonais.exe.config
+C:\Users\danie\source\repos\Matrizes\Diagonais\bin\Debug\Diagonais.exe
+C:\Users\danie\source\repos\Matrizes\Diagonais\bin\Debug\Diagonais.pdb
+C:\Users\danie\source\repos\Matrizes\Diagonais\obj\Debug\Diagonais.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\Diagonais\obj\Debug\Diagonais.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\Diagonais\obj\Debug\Diagonais.exe
+C:\Users\danie\source\repos\Matrizes\Diagonais\obj\Debug\Diagonais.pdb

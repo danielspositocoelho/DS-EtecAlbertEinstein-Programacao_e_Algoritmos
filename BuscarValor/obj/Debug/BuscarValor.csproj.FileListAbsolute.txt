@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\BuscarValor\bin\Debug\BuscarValor.exe.config
+C:\Users\danie\source\repos\Matrizes\BuscarValor\bin\Debug\BuscarValor.exe
+C:\Users\danie\source\repos\Matrizes\BuscarValor\bin\Debug\BuscarValor.pdb
+C:\Users\danie\source\repos\Matrizes\BuscarValor\obj\Debug\BuscarValor.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\BuscarValor\obj\Debug\BuscarValor.exe
+C:\Users\danie\source\repos\Matrizes\BuscarValor\obj\Debug\BuscarValor.pdb
+C:\Users\danie\source\repos\Matrizes\BuscarValor\obj\Debug\BuscarValor.csproj.AssemblyReference.cache

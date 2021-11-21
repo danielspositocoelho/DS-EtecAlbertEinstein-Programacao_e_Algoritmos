@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\Diagonal\bin\Debug\Diagonal.exe.config
+C:\Users\danie\source\repos\Matrizes\Diagonal\bin\Debug\Diagonal.exe
+C:\Users\danie\source\repos\Matrizes\Diagonal\bin\Debug\Diagonal.pdb
+C:\Users\danie\source\repos\Matrizes\Diagonal\obj\Debug\Diagonal.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\Diagonal\obj\Debug\Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\Diagonal\obj\Debug\Diagonal.exe
+C:\Users\danie\source\repos\Matrizes\Diagonal\obj\Debug\Diagonal.pdb

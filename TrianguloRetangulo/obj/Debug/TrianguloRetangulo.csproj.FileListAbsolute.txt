@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.exe.config
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.exe
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.pdb
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.exe
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.pdb
+C:\Users\danie\source\repos\Matrizes\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.csproj.AssemblyReference.cache

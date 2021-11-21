@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\bin\Debug\TabuleiroDamas.exe.config
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\bin\Debug\TabuleiroDamas.exe
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\bin\Debug\TabuleiroDamas.pdb
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\obj\Debug\TabuleiroDamas.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\obj\Debug\TabuleiroDamas.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\obj\Debug\TabuleiroDamas.exe
+C:\Users\danie\source\repos\Matrizes\TabuleiroDamas\obj\Debug\TabuleiroDamas.pdb

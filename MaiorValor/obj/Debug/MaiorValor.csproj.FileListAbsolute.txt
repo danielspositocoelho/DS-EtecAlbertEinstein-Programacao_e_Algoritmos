@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\MaiorValor\bin\Debug\MaiorValor.exe.config
+C:\Users\danie\source\repos\Matrizes\MaiorValor\bin\Debug\MaiorValor.exe
+C:\Users\danie\source\repos\Matrizes\MaiorValor\bin\Debug\MaiorValor.pdb
+C:\Users\danie\source\repos\Matrizes\MaiorValor\obj\Debug\MaiorValor.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\MaiorValor\obj\Debug\MaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\MaiorValor\obj\Debug\MaiorValor.exe
+C:\Users\danie\source\repos\Matrizes\MaiorValor\obj\Debug\MaiorValor.pdb
