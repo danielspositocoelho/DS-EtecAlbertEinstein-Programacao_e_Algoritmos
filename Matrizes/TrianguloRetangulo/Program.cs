@@ -13,6 +13,7 @@ namespace TrianguloRetangulo
             /*TrianguloRetangulo
             Declare uma matriz de char de 6 x 6, e desenhe um triangulo retângulo conforme exemplo: Exiba a matriz*/
 
+            //HÁ UM BUG AQUI, PRECISA ARRUMAR
             char continuar = 's';
             do
             {               
