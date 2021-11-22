@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Matrizes\Gabarito\bin\Debug\Gabarito.exe.config
+C:\Users\danie\source\repos\Matrizes\Gabarito\bin\Debug\Gabarito.exe
+C:\Users\danie\source\repos\Matrizes\Gabarito\bin\Debug\Gabarito.pdb
+C:\Users\danie\source\repos\Matrizes\Gabarito\obj\Debug\Gabarito.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Matrizes\Gabarito\obj\Debug\Gabarito.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Matrizes\Gabarito\obj\Debug\Gabarito.exe
+C:\Users\danie\source\repos\Matrizes\Gabarito\obj\Debug\Gabarito.pdb
