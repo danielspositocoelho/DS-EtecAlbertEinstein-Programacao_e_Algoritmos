@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores\invertWord\bin\Debug\invertWord.exe.config
+C:\Users\danie\source\repos\vetores\invertWord\bin\Debug\invertWord.exe
+C:\Users\danie\source\repos\vetores\invertWord\bin\Debug\invertWord.pdb
+C:\Users\danie\source\repos\vetores\invertWord\obj\Debug\invertWord.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\invertWord\obj\Debug\invertWord.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\invertWord\obj\Debug\invertWord.exe
+C:\Users\danie\source\repos\vetores\invertWord\obj\Debug\invertWord.pdb

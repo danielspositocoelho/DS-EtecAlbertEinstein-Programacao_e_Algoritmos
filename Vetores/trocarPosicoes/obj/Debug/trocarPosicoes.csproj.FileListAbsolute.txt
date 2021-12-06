@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.exe.config
+C:\Users\danie\source\repos\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.exe
+C:\Users\danie\source\repos\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.pdb
+C:\Users\danie\source\repos\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.exe
+C:\Users\danie\source\repos\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.exe.config
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\trocarPosicoes\bin\Debug\trocarPosicoes.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\trocarPosicoes\obj\Debug\trocarPosicoes.pdb

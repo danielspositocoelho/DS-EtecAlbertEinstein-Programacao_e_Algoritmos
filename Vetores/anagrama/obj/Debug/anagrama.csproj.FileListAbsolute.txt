@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\danie\source\repos\vetores\anagrama\bin\Debug\anagrama.exe
+C:\Users\danie\source\repos\vetores\anagrama\bin\Debug\anagrama.pdb
+C:\Users\danie\source\repos\vetores\anagrama\obj\Debug\anagrama.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\anagrama\obj\Debug\anagrama.exe
+C:\Users\danie\source\repos\vetores\anagrama\obj\Debug\anagrama.pdb

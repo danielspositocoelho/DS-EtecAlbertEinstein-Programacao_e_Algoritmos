@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores\impares\bin\Debug\impares.exe.config
+C:\Users\danie\source\repos\vetores\impares\bin\Debug\impares.exe
+C:\Users\danie\source\repos\vetores\impares\bin\Debug\impares.pdb
+C:\Users\danie\source\repos\vetores\impares\obj\Debug\impares.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\impares\obj\Debug\impares.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\impares\obj\Debug\impares.exe
+C:\Users\danie\source\repos\vetores\impares\obj\Debug\impares.pdb

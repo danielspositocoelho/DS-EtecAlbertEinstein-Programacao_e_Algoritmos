@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores1.1\repetidos\bin\Debug\repetidos.exe.config
+C:\Users\danie\source\repos\vetores1.1\repetidos\bin\Debug\repetidos.exe
+C:\Users\danie\source\repos\vetores1.1\repetidos\bin\Debug\repetidos.pdb
+C:\Users\danie\source\repos\vetores1.1\repetidos\obj\Debug\repetidos.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores1.1\repetidos\obj\Debug\repetidos.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores1.1\repetidos\obj\Debug\repetidos.exe
+C:\Users\danie\source\repos\vetores1.1\repetidos\obj\Debug\repetidos.pdb

@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\bin\Debug\procurarTodasOcurrencias.exe.config
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\bin\Debug\procurarTodasOcurrencias.exe
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\bin\Debug\procurarTodasOcurrencias.pdb
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\obj\Debug\procurarTodasOcurrencias.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\obj\Debug\procurarTodasOcurrencias.exe
+C:\Users\danie\source\repos\vetores\procurarTodasOcurrencias\obj\Debug\procurarTodasOcurrencias.pdb

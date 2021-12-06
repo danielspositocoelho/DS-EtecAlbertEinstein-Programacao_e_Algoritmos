@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\vetores\encontrarPares\bin\Debug\encontrarPares.exe.config
+C:\Users\danie\source\repos\vetores\encontrarPares\bin\Debug\encontrarPares.exe
+C:\Users\danie\source\repos\vetores\encontrarPares\bin\Debug\encontrarPares.pdb
+C:\Users\danie\source\repos\vetores\encontrarPares\obj\Debug\encontrarPares.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\encontrarPares\obj\Debug\encontrarPares.exe
+C:\Users\danie\source\repos\vetores\encontrarPares\obj\Debug\encontrarPares.pdb

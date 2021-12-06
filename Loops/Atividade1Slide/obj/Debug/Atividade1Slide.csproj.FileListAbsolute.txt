@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\Atividade1Slide\bin\Debug\Atividade1Slide.exe.config
+C:\Users\danie\source\repos\Loops\Atividade1Slide\bin\Debug\Atividade1Slide.exe
+C:\Users\danie\source\repos\Loops\Atividade1Slide\bin\Debug\Atividade1Slide.pdb
+C:\Users\danie\source\repos\Loops\Atividade1Slide\obj\Debug\Atividade1Slide.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\Atividade1Slide\obj\Debug\Atividade1Slide.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Atividade1Slide\obj\Debug\Atividade1Slide.exe
+C:\Users\danie\source\repos\Loops\Atividade1Slide\obj\Debug\Atividade1Slide.pdb

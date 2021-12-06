@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores\OrdenarArray\bin\Debug\OrdenarArray.exe.config
+C:\Users\danie\source\repos\vetores\OrdenarArray\bin\Debug\OrdenarArray.exe
+C:\Users\danie\source\repos\vetores\OrdenarArray\bin\Debug\OrdenarArray.pdb
+C:\Users\danie\source\repos\vetores\OrdenarArray\obj\Debug\OrdenarArray.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\OrdenarArray\obj\Debug\OrdenarArray.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\OrdenarArray\obj\Debug\OrdenarArray.exe
+C:\Users\danie\source\repos\vetores\OrdenarArray\obj\Debug\OrdenarArray.pdb

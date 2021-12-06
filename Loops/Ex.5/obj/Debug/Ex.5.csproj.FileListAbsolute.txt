@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\Ex.5\bin\Debug\Ex.5.exe.config
+C:\Users\danie\source\repos\Loops\Ex.5\bin\Debug\Ex.5.exe
+C:\Users\danie\source\repos\Loops\Ex.5\bin\Debug\Ex.5.pdb
+C:\Users\danie\source\repos\Loops\Ex.5\obj\Debug\Ex.5.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\Ex.5\obj\Debug\Ex.5.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Ex.5\obj\Debug\Ex.5.exe
+C:\Users\danie\source\repos\Loops\Ex.5\obj\Debug\Ex.5.pdb

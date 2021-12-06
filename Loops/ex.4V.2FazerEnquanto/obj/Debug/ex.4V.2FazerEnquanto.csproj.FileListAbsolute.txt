@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\bin\Debug\ex.4V.2FazerEnquanto.exe.config
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\bin\Debug\ex.4V.2FazerEnquanto.exe
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\bin\Debug\ex.4V.2FazerEnquanto.pdb
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\obj\Debug\ex.4V.2FazerEnquanto.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\obj\Debug\ex.4V.2FazerEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\obj\Debug\ex.4V.2FazerEnquanto.exe
+C:\Users\danie\source\repos\Loops\ex.4V.2FazerEnquanto\obj\Debug\ex.4V.2FazerEnquanto.pdb

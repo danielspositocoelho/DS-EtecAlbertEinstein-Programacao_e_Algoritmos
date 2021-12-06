@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\bin\Debug\Tabuadas.exe.config
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\bin\Debug\Tabuadas.exe
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\bin\Debug\Tabuadas.pdb
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\obj\Debug\Tabuadas.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\obj\Debug\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\obj\Debug\Tabuadas.exe
+C:\Users\danie\source\repos\AtivAgosto_profAlex1form\Tabuadas\obj\Debug\Tabuadas.pdb
+C:\Users\danie\source\repos\Loops\Tabuadas\bin\Debug\Tabuadas.exe.config
+C:\Users\danie\source\repos\Loops\Tabuadas\bin\Debug\Tabuadas.exe
+C:\Users\danie\source\repos\Loops\Tabuadas\bin\Debug\Tabuadas.pdb
+C:\Users\danie\source\repos\Loops\Tabuadas\obj\Debug\Tabuadas.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\Tabuadas\obj\Debug\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Tabuadas\obj\Debug\Tabuadas.exe
+C:\Users\danie\source\repos\Loops\Tabuadas\obj\Debug\Tabuadas.pdb

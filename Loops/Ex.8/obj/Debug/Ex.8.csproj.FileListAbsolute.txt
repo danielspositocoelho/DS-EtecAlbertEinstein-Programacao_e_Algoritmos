@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\Ex.8\bin\Debug\Ex.8.exe.config
+C:\Users\danie\source\repos\Loops\Ex.8\bin\Debug\Ex.8.exe
+C:\Users\danie\source\repos\Loops\Ex.8\bin\Debug\Ex.8.pdb
+C:\Users\danie\source\repos\Loops\Ex.8\obj\Debug\Ex.8.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Ex.8\obj\Debug\Ex.8.exe
+C:\Users\danie\source\repos\Loops\Ex.8\obj\Debug\Ex.8.pdb
+C:\Users\danie\source\repos\Loops\Ex.8\obj\Debug\Ex.8.csproj.AssemblyReference.cache

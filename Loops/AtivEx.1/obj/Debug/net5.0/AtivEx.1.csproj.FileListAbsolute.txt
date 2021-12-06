@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.exe
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.deps.json
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.runtimeconfig.json
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.dll
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\ref\AtivEx.1.dll
+C:\Users\danie\source\repos\Loops\AtivEx.1\bin\Debug\net5.0\AtivEx.1.pdb
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.AssemblyInfo.cs
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.dll
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\ref\AtivEx.1.dll
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.pdb
+C:\Users\danie\source\repos\Loops\AtivEx.1\obj\Debug\net5.0\AtivEx.1.genruntimeconfig.cache

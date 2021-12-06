@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.exe.config
+C:\Users\danie\source\repos\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.exe
+C:\Users\danie\source\repos\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.pdb
+C:\Users\danie\source\repos\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.exe
+C:\Users\danie\source\repos\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.exe.config
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\bin\Debug\Indices_do_nome.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\Indices_do_nome\obj\Debug\Indices_do_nome.pdb

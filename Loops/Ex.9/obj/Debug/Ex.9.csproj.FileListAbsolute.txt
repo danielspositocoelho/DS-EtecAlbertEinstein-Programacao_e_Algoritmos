@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\Ex.9\bin\Debug\Ex.9.exe.config
+C:\Users\danie\source\repos\Loops\Ex.9\bin\Debug\Ex.9.exe
+C:\Users\danie\source\repos\Loops\Ex.9\bin\Debug\Ex.9.pdb
+C:\Users\danie\source\repos\Loops\Ex.9\obj\Debug\Ex.9.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Ex.9\obj\Debug\Ex.9.exe
+C:\Users\danie\source\repos\Loops\Ex.9\obj\Debug\Ex.9.pdb
+C:\Users\danie\source\repos\Loops\Ex.9\obj\Debug\Ex.9.csproj.AssemblyReference.cache

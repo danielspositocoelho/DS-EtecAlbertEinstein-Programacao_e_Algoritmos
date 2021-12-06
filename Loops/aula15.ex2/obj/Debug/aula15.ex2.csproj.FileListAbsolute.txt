@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\Loops\aula15.ex2\bin\Debug\aula15.ex2.exe.config
+C:\Users\danie\source\repos\Loops\aula15.ex2\bin\Debug\aula15.ex2.exe
+C:\Users\danie\source\repos\Loops\aula15.ex2\bin\Debug\aula15.ex2.pdb
+C:\Users\danie\source\repos\Loops\aula15.ex2\obj\Debug\aula15.ex2.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\aula15.ex2\obj\Debug\aula15.ex2.exe
+C:\Users\danie\source\repos\Loops\aula15.ex2\obj\Debug\aula15.ex2.pdb

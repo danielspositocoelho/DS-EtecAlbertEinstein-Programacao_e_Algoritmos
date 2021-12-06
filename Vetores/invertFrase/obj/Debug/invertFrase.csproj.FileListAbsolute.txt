@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\vetores\invertFrase\bin\Debug\invertFrase.exe.config
+C:\Users\danie\source\repos\vetores\invertFrase\bin\Debug\invertFrase.exe
+C:\Users\danie\source\repos\vetores\invertFrase\bin\Debug\invertFrase.pdb
+C:\Users\danie\source\repos\vetores\invertFrase\obj\Debug\invertFrase.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\invertFrase\obj\Debug\invertFrase.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\invertFrase\obj\Debug\invertFrase.exe
+C:\Users\danie\source\repos\vetores\invertFrase\obj\Debug\invertFrase.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\bin\Debug\invertFrase.exe.config
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\bin\Debug\invertFrase.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\bin\Debug\invertFrase.pdb
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\obj\Debug\invertFrase.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\obj\Debug\invertFrase.exe
+C:\Users\Aluno\Downloads\vetores-20211108T220853Z-001\vetores\invertFrase\obj\Debug\invertFrase.pdb

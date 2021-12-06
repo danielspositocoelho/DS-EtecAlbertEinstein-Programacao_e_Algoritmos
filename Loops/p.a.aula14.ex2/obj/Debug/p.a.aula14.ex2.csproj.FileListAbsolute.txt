@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\bin\Debug\p.a.aula14.ex2.exe.config
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\bin\Debug\p.a.aula14.ex2.exe
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\bin\Debug\p.a.aula14.ex2.pdb
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\obj\Debug\p.a.aula14.ex2.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\obj\Debug\p.a.aula14.ex2.exe
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\obj\Debug\p.a.aula14.ex2.pdb
+C:\Users\danie\source\repos\Loops\p.a.aula14.ex2\obj\Debug\p.a.aula14.ex2.csproj.AssemblyReference.cache

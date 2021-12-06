@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Loops\Ex.6\bin\Debug\Ex.6.exe.config
+C:\Users\danie\source\repos\Loops\Ex.6\bin\Debug\Ex.6.exe
+C:\Users\danie\source\repos\Loops\Ex.6\bin\Debug\Ex.6.pdb
+C:\Users\danie\source\repos\Loops\Ex.6\obj\Debug\Ex.6.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Loops\Ex.6\obj\Debug\Ex.6.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Loops\Ex.6\obj\Debug\Ex.6.exe
+C:\Users\danie\source\repos\Loops\Ex.6\obj\Debug\Ex.6.pdb

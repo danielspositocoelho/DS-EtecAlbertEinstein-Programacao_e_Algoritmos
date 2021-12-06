@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\vetores\palindrome\obj\Debug\palindrome.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\vetores\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\vetores\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\danie\source\repos\vetores\palindrome\bin\Debug\palindrome.exe
+C:\Users\danie\source\repos\vetores\palindrome\bin\Debug\palindrome.pdb
+C:\Users\danie\source\repos\vetores\palindrome\obj\Debug\palindrome.exe
+C:\Users\danie\source\repos\vetores\palindrome\obj\Debug\palindrome.pdb
