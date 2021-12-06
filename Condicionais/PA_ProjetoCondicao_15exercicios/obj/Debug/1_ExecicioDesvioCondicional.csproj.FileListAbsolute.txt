@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\bin\Debug\PA_ProjetoCondicao_15exercicios.exe.config
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\bin\Debug\PA_ProjetoCondicao_15exercicios.exe
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\bin\Debug\PA_ProjetoCondicao_15exercicios.pdb
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\obj\Debug\1_ExecicioDesvioCondicional.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\obj\Debug\PA_ProjetoCondicao_15exercicios.exe
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\PA_ProjetoCondicao_15exercicios\obj\Debug\PA_ProjetoCondicao_15exercicios.pdb

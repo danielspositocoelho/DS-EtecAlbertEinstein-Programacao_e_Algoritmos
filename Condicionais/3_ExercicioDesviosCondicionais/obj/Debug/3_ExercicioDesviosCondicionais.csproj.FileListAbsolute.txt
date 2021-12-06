@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\bin\Debug\3_ExercicioDesviosCondicionais.exe.config
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\bin\Debug\3_ExercicioDesviosCondicionais.exe
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\bin\Debug\3_ExercicioDesviosCondicionais.pdb
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\obj\Debug\3_ExercicioDesviosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\obj\Debug\3_ExercicioDesviosCondicionais.exe
+C:\Users\danie\source\repos\PA_ProjetoCondicao_15exercicios\3_ExercicioDesviosCondicionais\obj\Debug\3_ExercicioDesviosCondicionais.pdb
